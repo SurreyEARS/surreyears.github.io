@@ -21,4 +21,4 @@ We run amateur radio licence training and courses in Python and Arduino. Anyone 
 * [The Facebook Group](https://www.facebook.com/groups/SurreyEARS/)
 * [Facebook Page](https://www.facebook.com/SurreyEARS/)
 * [Flickr](https://flickr.com/surreyears)
-* [Github](https://github.com/SurreyEARS)
+* [GitHub](https://github.com/SurreyEARS)

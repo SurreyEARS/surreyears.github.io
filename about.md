@@ -7,13 +7,13 @@ permalink: /about/
 The EARS Committee is voted in annually at our AGM around April/May. The 2018-19 Committee are:
 
 * **President:** James Lynn
-* **Secretary:** Adil Aslam
-* **Treasurer:** Theodore Messinezis
-* **Electronics Officer:** Sam Lane
+* **Vice President:** Sam Lane
+* **Treasurer:** Ruffus Uttley
+* **Electronics Officer:** Lea Motte
 * **Space Officer:** Konstantin Charkseliani
 * **Radio Officer:** Neil Jones
-* **Community Engagement Officer:** Daniel Spindelbauer
+* **Community Engagement Officer:** 🤷‍♂️
 * **Sysadmin and IT Officer:** Ruffus Uttley
-* **Publicity Officer:** Jack Judd
+* **Publicity Officer:** Tom Cox
 
 You can contact EARS at hello@surreyears.co.uk
