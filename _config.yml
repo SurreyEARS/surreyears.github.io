@@ -11,12 +11,14 @@ url: https://surreyears.github.io/
 logo: "media/EARS_github_logo.png"
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  SU Site: 
+    https://surreyunion.org/EARS
+  GitHub:
+    https://github.com/SurreyEARS
+  Linktree:
+    https://linktr.ee/SurreyEARS
 
 color_scheme: ears
-
-aux_links: false
-
 
 callouts:
   note:
@@ -25,7 +27,7 @@ callouts:
   info:
     color: green
  
-footer_content: "© Surrey EARS"
+footer_content: "Copyright © 2024 Surrey EARS"
 
 plugins:
  - jekyll-remote-theme
