@@ -29,4 +29,4 @@ The entrance to the ground station seems underwhelming and confusing at first as
 
 The place has many plans, for the future and is used as a tool to teach students about satellite communications and space activities
 
-The repeater [GB3TY](gb3ty) is also situated here
+The repeater [GB3TY](GB3TY) is also situated here
