@@ -1,6 +1,8 @@
 title: EARS
 description: EARS Github Page
-theme: just-the-docs
+# The below theme statement is for the original just-the-docs theme, we are using our own fork, which is used with the remote_theme option.
+#theme: just-the-docs
+remote_theme: SurreyEARS/just-the-docs
 
 markdown: kramdown
 
@@ -24,3 +26,6 @@ callouts:
     color: green
  
 footer_content: "© Surrey EARS"
+
+plugins:
+ - jekyll-remote-theme
