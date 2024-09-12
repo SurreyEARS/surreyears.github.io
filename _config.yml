@@ -1,0 +1,26 @@
+title: EARS
+description: EARS Github Page
+theme: just-the-docs
+
+markdown: kramdown
+
+url: https://surreyears.github.io/
+
+logo: "media/EARS_github_logo.png"
+
+aux_links:
+  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+color_scheme: ears
+
+aux_links: false
+
+
+callouts:
+  note:
+    color: purple
+ 
+  info:
+    color: green
+ 
+footer_content: "© Surrey EARS"
