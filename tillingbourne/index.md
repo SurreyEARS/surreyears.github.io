@@ -1,7 +1,7 @@
 ---
 title: Tillingbourne (GS)
 layout: default
-nav_order: 2
+nav_order: 3
 has_toc: true
 has_children: true
 ---
@@ -10,7 +10,7 @@ has_children: true
 
 <h1><b>Tillingbourne</b></h1>
 
-**Tillingbourne** is our student run satellite ground station, based on top of the residential accomodation building with the same name, maintained continiously by Caspar Pierce (**M0KRH**) since 2022.
+**Tillingbourne** is our student-run satellite ground station, based on top of the residential accomodation building of the same name, maintained continiously by Caspar Pierce (**M0KRH**) since 2022.
 
 <img src="media/underbanner.png" width="100%">
 
@@ -20,7 +20,7 @@ The area seemed to be reaquired in the mid 2010s, when a large parabolic dish (f
 
 For unknown reasons (most likely to keep the dish safe) over COVID, the hardware was dismantled and the parabolic dish settled on one of the railings along with the counterweights, and the Society went dormant/hidden for the next few years.
 
-During 2022, Caspar, the Radio Officer at the time, managed to make contact to Neil Jones, a previous radio officer about the history of the society, and it was only after a coffee break that any mention on Tilly was made after all the years.
+During 2022, Caspar, the Radio Officer at the time, managed to make contact to Neil Jones (**M0SNJ**), a previous radio officer about the history of the society, and it was only after a coffee break that any mention on Tilly was made after all the years.
 
 The entrance to the ground station seems underwhelming and confusing at first, as entry to the area is made through a loft hatch.
 
