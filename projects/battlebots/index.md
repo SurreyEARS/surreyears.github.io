@@ -14,4 +14,4 @@ has_toc: true
 
 <img src="media/banner.png" width="100%">
 
-This is our robo-wars competition team, run by Douglas Potter which aims to take part in national, and in the future international, battlebot competitions 
+This is our robo-wars competition team, run by Douglas Potter which aims to take part in national, and in the future international, battlebot competitions. 
