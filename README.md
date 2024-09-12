@@ -1,3 +1,3 @@
 # EARS Github Pages Site
 
-This is the new Github Pages site, available [here](https://surreyears.github.io).
+[Visit the page here](https://surreyears.github.io)
