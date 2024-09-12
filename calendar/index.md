@@ -1,12 +1,12 @@
 ---
 title: Calendar
 layout: home
-nav_order: 3
+nav_order: 2
 ---
 
 <h1><b>Calendar</b></h1>
 
-**List of our EARS events are below**
+The **EARS** calendar of events are located below: 
 
 <iframe id="open-web-calendar" 
     style="background:url('https://raw.githubusercontent.com/niccokunzmann/open-web-calendar/master/static/img/loaders/circular-loader.gif') center center no-repeat;"
@@ -15,4 +15,4 @@ nav_order: 3
     allowTransparency="true" scrolling="no" 
     frameborder="0" height="600px" width="100%"></iframe>
 
-*You may need to click 'Today' to see most recent events*
+> *NOTE: You may need to click **'Today'** to see our most recent events.*
