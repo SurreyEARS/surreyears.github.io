@@ -9,11 +9,13 @@ has_toc: false
 # Beetle 1
 
 ### Robot Overview
-- Unnamed - Officially designated "Beetle 1"
-- Date of inception: 2nd October 2024
-- Weight class: 1.5Kg Beetleweight
-- Date of first fight: Yet to compete
-- In active service: No
+- **Official designation:** Beetle 1
+- **Date of inception:** 2nd October 2024
+- **Weight class:** 1.5Kg Beetleweight
+- **Weapon type:** Vertical multi-spinner
+- **Date of first fight:** Yet to compete
+- **K/D Ratio:** 0:0
+- **In active service:** No
 
 ### Build Team
 - Eden Finikin-Daniel
@@ -25,3 +27,5 @@ has_toc: false
 - Catherine Moller
 - Xavier Jonczyk
 
+### Fights Entered
+- Yet to compete
