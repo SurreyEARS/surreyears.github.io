@@ -1,5 +1,5 @@
 ---
-title: Beetle 1
+title: Beetle 3
 layout: default
 parent: Battlebots
 nav_order: 3
