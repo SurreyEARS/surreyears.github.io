@@ -4,6 +4,7 @@ layout: default
 has_children: true
 nav_order: 5
 has_toc: true
+description: An in-depth look at our history over the years.
 ---
 
 {% include math.html %}

@@ -3,6 +3,7 @@ description: EARS Github Page
 # The below theme statement is for the original just-the-docs theme, we are using our own fork, which is used with the remote_theme option.
 #theme: just-the-docs
 remote_theme: SurreyEARS/just-the-docs
+color_scheme: ears
 
 markdown: kramdown
 

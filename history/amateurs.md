@@ -3,6 +3,7 @@ title: Radio Amateurs
 layout: default
 parent: History
 has_toc: true
+description: A list of radio amateurs that have been an EARS member or been trained by us.
 ---
 
 {% include math.html %}

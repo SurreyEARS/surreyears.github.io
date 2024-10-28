@@ -4,6 +4,7 @@ layout: default
 nav_order: 3
 has_toc: true
 has_children: true
+description: Tillingbourne is our-student run satellite ground station, maintained by M0KRH since 2022.
 ---
 
 {% include math.html %}

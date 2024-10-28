@@ -2,6 +2,7 @@
 title: Calendar
 layout: home
 nav_order: 2
+description: Click here to view our calendar, and attend our events!
 ---
 
 <h1><b>Calendar</b></h1>
